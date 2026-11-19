@@ -1,16 +1,50 @@
-## Hi there 👋
+<img src="assets/banner.jpg" alt="N.J. Berky, AI Architect and Educator" width="100%">
 
-<!--
-**NathBerky/NathBerky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Architect & Educator** based in Prague, working across Czechia and DACH. I design and ship AI systems for two worlds that need to get it right: **education** and **reproductive medicine**. Every build below is live, used by real people, and designed around regulation (EU AI Act, MDR, GDPR, nDSG) from day one.
 
-Here are some ideas to get you started:
+[Website](https://njb-berky.com) · [LinkedIn](https://www.linkedin.com/in/nathaniel-jonathan-berky/) · [ORCID](https://orcid.org/0009-0001-2227-215X) · njb@njb-berky.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### `01` · Workshop OS
+One system, rebuilt per audience. QR join, chapters, quizzes, team work, neurodiversity modes (ADHD, dyslexia, calm), a teacher console and data reports after every class. Run live for universities, study-abroad programmes and Czech schools.
+
+<table>
+<tr><td width="50%" valign="top"><a href="https://ivf.workshop.njb-berky.com"><img src="assets/ivf.jpg" alt="AI in IVF" width="100%"></a></td><td width="50%" valign="top"><a href="https://ai-workshop-uni.njb-berky.com"><img src="assets/vsem.jpg" alt="AI in Real Business" width="100%"></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://high-school.njb-berky.com"><img src="assets/gnb.jpg" alt="Den s AI · Gymnázium" width="100%"></a></td><td width="50%" valign="top"><a href="https://primary-school.njb-berky.com"><img src="assets/zs.jpg" alt="Den s AI · Základní škola" width="100%"></a></td></tr>
+</table>
+
+### `02` · Healthcare & MedTech
+<table>
+<tr><td width="50%" valign="top"><a href="https://ember-ivf.njb-berky.com"><img src="assets/ember.jpg" alt="Ember" width="100%"></a></td><td width="50%" valign="top"><a href="https://startup.njb-berky.com"><img src="assets/navigator.jpg" alt="Startup Navigator" width="100%"></a></td></tr>
+</table>
+
+### `03` · AI courses
+<table>
+<tr><td width="50%" valign="top"><a href="https://ai-pedagogy.njb-berky.com"><img src="assets/pedagogy.jpg" alt="AI Pedagogy" width="100%"></a></td><td width="50%" valign="top"><a href="https://executive.njb-berky.com"><img src="assets/exec.jpg" alt="Executive AI Coaching" width="100%"></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://education.njb-berky.com"><img src="assets/intern.jpg" alt="AI is my intern" width="100%"></a></td><td width="50%"></td></tr>
+</table>
+
+### `04` · Concepts, pitches & enterprise
+<table>
+<tr><td width="50%" valign="top"><a href="https://miai-monaco.njb-berky.com"><img src="assets/miai.jpg" alt="MIAI Monaco" width="100%"></a></td><td width="50%" valign="top"><a href="https://vuts.njb-berky.com"><img src="assets/vuts.jpg" alt="Engineering OS" width="100%"></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://praxijo-pitch.lovable.app"><img src="assets/praxijo.jpg" alt="Praxijo" width="100%"></a></td><td width="50%" valign="top"><a href="https://solace-aau-ja.lovable.app"><img src="assets/solace.jpg" alt="Solace" width="100%"></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://sychrov.njb-berky.com"><img src="assets/sychrov.jpg" alt="Castle Visitor App" width="100%"></a></td><td width="50%" valign="top"><img src="assets/legal.jpg" alt="Legal OS" width="100%"></td></tr>
+</table>
+
+### `05` · Brand
+<table>
+<tr><td width="50%" valign="top"><a href="https://njb-berky.com"><img src="assets/site.jpg" alt="njb-berky.com" width="100%"></a></td><td width="50%"></td></tr>
+</table>
+
+---
+
+### How I build
+| | |
+|---|---|
+| **Stack** | React · TypeScript · Tailwind · Supabase · Lovable · Claude API |
+| **AI** | LLM apps, agent teams, rule engines (MDR / FDA), predictive scoring, RAG |
+| **Design** | Accessibility-first, multilingual (EN · CZ · DE and more), offline-ready PWAs |
+| **Governance** | EU AI Act, MDR / IVDR, GDPR, Swiss nDSG, FMedG built into the design |
+
+<sub>Source code for client and production projects is kept private. Live demos are linked above; happy to walk through any build on a call.</sub>
