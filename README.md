@@ -1,6 +1,6 @@
 <img src="assets/banner.jpg" alt="N.J. Berky, AI Architect and Educator" width="100%">
 
-**AI Architect & Educator** based in Prague, working across Czechia and DACH. I design and ship AI systems for two worlds that need to get it right: **education** and **reproductive medicine**. Every build below is live, used by real people, and designed around regulation (EU AI Act, MDR, GDPR, nDSG) from day one.
+**AI Architect & Educator** based in Prague and Zurich, working across DACH and Czechia. I design and ship AI systems for two worlds that need to get it right: **education** and **reproductive medicine**. Every build below is live, used by real people, and designed around regulation (EU AI Act, MDR, GDPR, nDSG) from day one.
 
 [Website](https://njb-berky.com) · [LinkedIn](https://www.linkedin.com/in/nathaniel-jonathan-berky/) · [ORCID](https://orcid.org/0009-0001-2227-215X) · njb@njb-berky.com
 
