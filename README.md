@@ -16,7 +16,7 @@ One system, rebuilt per audience. QR join, chapters, quizzes, team work, neurodi
 
 ### `02` · Healthcare & MedTech
 <table>
-<tr><td width="50%" valign="top"><a href="https://ember-ivf.njb-berky.com"><img src="assets/ember.jpg" alt="Ember" width="100%"></a></td><td width="50%" valign="top"><a href="https://labswiss.lovable.app"><img src="assets/labswiss.jpg" alt="LabSwiss" width="100%"></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://ember-ivf.njb-berky.com"><img src="assets/ember.jpg" alt="Ember" width="100%"></a></td><td width="50%" valign="top"><a href="https://labswiss.njb-berky.com"><img src="assets/labswiss.jpg" alt="LabSwiss" width="100%"></a></td></tr>
 <tr><td width="50%" valign="top"><a href="https://startup.njb-berky.com"><img src="assets/navigator.jpg" alt="Startup Navigator" width="100%"></a></td><td width="50%"></td></tr>
 </table>
 
