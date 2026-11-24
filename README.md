@@ -28,7 +28,7 @@ One system, rebuilt per audience. QR join, chapters, quizzes, team work, neurodi
 
 ### `04` · Concepts, pitches & enterprise
 <table>
-<tr><td width="50%" valign="top"><a href="https://miai-monaco.njb-berky.com"><img src="assets/miai.jpg" alt="MIAI Monaco" width="100%"></a></td><td width="50%" valign="top"><a href="https://vuts.njb-berky.com"><img src="assets/vuts.jpg" alt="Engineering OS" width="100%"></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://miai-monaco.njb-berky.com"><img src="assets/miai.jpg" alt="MIAI Monaco" width="100%"></a></td><td width="50%" valign="top"><img src="assets/vuts.jpg" alt="Engineering OS" width="100%"></td></tr>
 <tr><td width="50%" valign="top"><a href="https://praxijo-pitch.lovable.app"><img src="assets/praxijo.jpg" alt="Praxijo" width="100%"></a></td><td width="50%" valign="top"><a href="https://solace-aau-ja.lovable.app"><img src="assets/solace.jpg" alt="Solace" width="100%"></a></td></tr>
 <tr><td width="50%" valign="top"><a href="https://sychrov.njb-berky.com"><img src="assets/sychrov.jpg" alt="Castle Visitor App" width="100%"></a></td><td width="50%" valign="top"><img src="assets/legal.jpg" alt="Legal OS" width="100%"></td></tr>
 </table>
