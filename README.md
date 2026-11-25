@@ -17,8 +17,10 @@ One system, rebuilt per audience. QR join, chapters, quizzes, team work, neurodi
 ### `02` · Research
 **NJB Brain Lab**: a learner brain simulator for teaching and research. Typical, ADHD and dyslexia profiles, a live 3D brain, 124 sourced parameters and a lab-grade PDF report for every research session, in EN, CS and DE. Research access codes for universities and courses. Overview and citation: https://github.com/NathBerky/brain-lab/
 
+**NJB IVF Lab**: a gametes-to-birth simulator for teaching and research. Natural and IVF / ICSI paths on one clock: microscope, time-lapse incubator, ultrasound, a live lab console, a test lab and an embryo mixer, with 51 evidence-graded parameters from 53 references, in EN, CS and DE. Access codes for clinics, universities and courses. Overview and citation: https://github.com/NathBerky/ivf-lab/
+
 <table>
-<tr><td width="50%" valign="top"><a href="https://brain-lab.njb-berky.com/"><img src="assets/brainlab.jpg" alt="NJB Brain Lab" width="100%"></a></td><td width="50%"></td></tr>
+<tr><td width="50%" valign="top"><a href="https://brain-lab.njb-berky.com/"><img src="assets/brainlab.jpg" alt="NJB Brain Lab" width="100%"></a></td><td width="50%" valign="top"><a href="https://ivf-lab.njb-berky.com/"><img src="assets/ivflab.jpg" alt="NJB IVF Lab" width="100%"></a></td></tr>
 </table>
 
 ### `03` · Healthcare & MedTech
